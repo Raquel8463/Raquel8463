@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Raquel8463
 - 👀 I’m interested in .full stack development..
 - 🌱 I’m currently learning ..backend development.
-- 💞️ I’m looking to collaborate on ..full stack development.
+- 💞️ I’m looking to collaborate on ..full stack development project
 - 📫 How to reach me 09061767896
-- 😄 Pronouns: ...
+- 😄 Pronouns: We
 - ⚡ Fun fact: open mindedness is key to learning
 
 <!---
